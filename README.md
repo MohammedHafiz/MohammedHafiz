@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohammedHafiz
-- 👀 I’m interested in Web DEWvelopment 
+- 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning MERN Stack Development
 - 💞️ I’m looking to collaborate with other Developers
 - 📫 Pin me @ mohammedhafizba@gmail.com
