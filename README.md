@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Travo Social Media](https://travosocialmedia.herokuapp.com/)
 
-- 🌱 I’m currently learning **React,Typescript**
+- 🌱 I’m currently learning **React, Typescript, Nextjs**
 
 - 👯 I’m looking to collaborate on **Node js projects**
 
