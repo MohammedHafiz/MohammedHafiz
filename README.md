@@ -1,26 +1,26 @@
 - 👋 Hi, I’m @MohammedHafiz
 <h1 align="center">Hi 👋, I'm Mohammed Hafiz BA</h1>
-<h3 align="center">A passionate MERN Stack developer from Kochi, Kerala</h3>
+<h3 align="center">A passionate Full Stask developer from Kochi, Kerala</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedhafiz&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedhafiz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedhafiz" alt="mohammedhafiz" /></a> </p>
 
-- 🔭 I’m currently working on [Travo Social Media](https://travosocialmedia.herokuapp.com/)
+- 🔭 I’m currently working on Roughpaer Technologies
 
-- 🌱 I’m currently learning **React, Typescript, Nextjs**
+- 🌱 I have good knowledge on **React, Javascript, Nextjs, Nodejs**
 
-- 👯 I’m looking to collaborate on **Node js projects**
+- 👯 I’m currently learning Typescript, Prisma, Graph Ql
 
-- 👨‍💻 All of my projects are available at [https://hafiz.tech](https://hafiz.tech)
+- 👨‍💻 My porfolio is available in https://mohammedhafizba-personal-website.vercel.app/
 
-- 💬 Ask me about **Nodejs, Reactjs, Javascript, MongoDB (Mongoose), Git, HTML, CSS, Bootstrap,Jquery**
+- 💬 Ask me about **Nodejs, Reactjs, Javascript, MongoDB (Mongoose), Git, HTML, Tailwind CSS, Bootstrap, Jquery, Nextjs, Firebase, Google Cloud, Serverless Functions, Figma, Redis**
 
 - 📫 How to reach me **mohammedhafizba@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Q9HZFzI3sXHvY5Ae587y1DN9feZ4-1Ab/view?usp=sharing](https://drive.google.com/file/d/1Q9HZFzI3sXHvY5Ae587y1DN9feZ4-1Ab/view?usp=sharing)
 
-- ⚡Soft Skills **I'm a Self Learner with good communication skills**
+- ⚡Soft Skills ** I have problem-solving skills and critical thinking**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
