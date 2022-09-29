@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammedHafiz
 <h1 align="center">Hi 👋, I'm Mohammed Hafiz BA</h1>
-<h3 align="center">A passionate Full Stask developer from Kochi, Kerala</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Kochi, Kerala</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedhafiz&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedhafiz" /> </p>
 
