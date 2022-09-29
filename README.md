@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedhafiz" alt="mohammedhafiz" /></a> </p>
 
-- 🔭 I’m currently working on Roughpaer Technologies
+- 🔭 I’m currently working on Roughpaper Technologies (https://www.roughpaper.xyz/)
 
 - 🌱 I have good knowledge on **React, Javascript, Nextjs, Nodejs**
 
@@ -14,13 +14,15 @@
 
 - 👨‍💻 My porfolio is available in https://mohammedhafizba-personal-website.vercel.app/
 
+- 👨 My Linkedin profile is https://www.linkedin.com/in/mohammed-hafiz-499441126/
+
 - 💬 Ask me about **Nodejs, Reactjs, Javascript, MongoDB (Mongoose), Git, HTML, Tailwind CSS, Bootstrap, Jquery, Nextjs, Firebase, Google Cloud, Serverless Functions, Figma, Redis**
 
 - 📫 How to reach me **mohammedhafizba@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Q9HZFzI3sXHvY5Ae587y1DN9feZ4-1Ab/view?usp=sharing](https://drive.google.com/file/d/1Q9HZFzI3sXHvY5Ae587y1DN9feZ4-1Ab/view?usp=sharing)
 
-- ⚡Soft Skills ** I have problem-solving skills and critical thinking**
+- ⚡Soft Skills **I have problem-solving skills and critical thinking**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
