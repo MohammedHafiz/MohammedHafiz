@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedhafiz" alt="mohammedhafiz" /></a> </p>
 
-- 🔭 I’m currently working on Roughpaper Technologies (https://www.roughpaper.xyz/)
+- 🔭 I’m currently working on Toobler Technologies (https://www.toobler.com/)
 
-- 🌱 I have good knowledge on **React, Javascript, Nextjs, Nodejs**
+- 🌱 I have good knowledge on **Javascript, Reactjs, Nextjs, Nodejs, MongoDB**
 
 - 👯 I’m currently learning Typescript, Prisma, Graph Ql
 
-- 👨‍💻 My porfolio is available in https://mohammedhafizba-personal-website.vercel.app/
+- 👨‍💻 My porfolio is available in https://mohammedhafizba-portfolio.vercel.app/
 
 - 👨 My Linkedin profile is https://www.linkedin.com/in/mohammed-hafiz-499441126/
 
